@@ -1,0 +1,11 @@
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+div{
+    background-color: red;
+    padding: 2% 6%;
+}
+#big{
+    padding: 2% 12%;
+}
